@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm R. Briggs</h1>
+<h1 align="center">Welcome to my Github page</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briggsrr&label=Profile%20views&color=0e75b6&style=flat" alt="briggsrr" /> </p>
 
 - 👨‍💻 My projects are available at [https://briggsrr.github.io/](https://briggsrr.github.io/)
