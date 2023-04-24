@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bobby Briggs</h1>
+<h1 align="center">Hi 👋, I'm R. Briggs</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briggsrr&label=Profile%20views&color=0e75b6&style=flat" alt="briggsrr" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://briggsrr.github.io/](https://briggsrr.github.io/)
+- 👨‍💻 My projects are available at [https://briggsrr.github.io/](https://briggsrr.github.io/)
 
-- 📫 How to reach me **bobbybriggs3@gmail.com**
+- 📫 Reach me **bobbybriggs3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
