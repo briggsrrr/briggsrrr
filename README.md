@@ -16,7 +16,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/briggsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="briggsr" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briggsrr&show_icons=true&locale=en&layout=compact&include_all_commits=true" alt="briggsrr" /></p><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briggsrr&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="briggsrr" /></p><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briggsrr&show_icons=true&locale=en" alt="briggsrr" /></p>
 
