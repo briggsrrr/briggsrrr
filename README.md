@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github page</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briggsrr&label=Profile%20views&color=0e75b6&style=flat" alt="briggsrr" /> </p>
 
-- 👨‍💻 My projects are available at [https://briggsr.me/](https://briggsrr.github.io/)
+- 👨‍💻 My projects are available [here](https://briggsr.me/)
 
 - 📫 Reach me **bobbybriggs3@gmail.com**
 
