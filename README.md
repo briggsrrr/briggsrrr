@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to my Github page</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briggsrr&label=Profile%20views&color=0e75b6&style=flat" alt="briggsrr" /> </p>
-
-- 📫 Reach me **bobbybriggs3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +12,8 @@
 <p><a href="https://www.buymeacoffee.com/briggsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="briggsr" /></a></p><br><br><br> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briggsrr&show_icons=true&locale=en&layout=compact" alt="briggsrr" /></p><br><br><br><br><br><br><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=briggsrr&label=Profile%20views&color=0e75b6&style=flat" alt="briggsrr" /> </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briggsrr&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="briggsrr" /></p> -->
 
